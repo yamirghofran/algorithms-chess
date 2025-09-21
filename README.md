@@ -1,6 +1,8 @@
 # Algorithms Project - Chess
+https://github.com/user-attachments/assets/defcabd3-a500-4985-9364-01a622929080
 
 Yousef Amirghofran, Lea Aboujaoudé, Diana Cordovez, Kareem Ramil Jamil
+
 
 ## Overview
 
